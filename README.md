@@ -2,6 +2,7 @@
 
 I'm a Software Development Engineer 2. This is my [WEX](https://www.wexinc.com/) GitHub professional account.
 
+Personal Github: [DarknessRdg](https://github.com/DarknessRdg)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
