@@ -21,8 +21,8 @@ class AboutMe(Developer):
     langauges = ["Portuguese", "English"]
 ```
 
-- 🌱 I’m currently learning FastAPI framework and ecossystem
+- 🌱 I’m currently learning Golang framework and ecossystem
 - 💌 How to reach me: 
-  - professional email: luan.rodrigues@wexin.com
+  - professional email: luan.rodrigues@wexinc.com
   - personal email: luanrodriguesbusiness@hotmail.com
 - 😄 Pronouns: he | him
