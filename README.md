@@ -15,7 +15,7 @@ from luan_wex import Developer
 class AboutMe(Developer):
     name = "Luan"
     last_name = "Rodrigues"
-    position = "Software Development Engineer 2"
+    position = "Software Development Engineer 3"
     company = "WEX"
     nationality = "Brazilian"
     langauges = ["Portuguese", "English"]
